@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS, ASP.NET Core**
 
-- 👨‍💻 All of my projects are available at [[johnvo](ttexe.id.vn)]([johnvo](ttexe.id.vn))
+- 👨‍💻 All of my projects are available at [johnvo](ttexe.id.vn)
 
 - 💬 Ask me about **ReactJs, ASP.NET Core**
 
