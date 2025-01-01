@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **thanhthu040202@gmail.com**
 
-- ⚡ Fun fact **Im bad**
+- ⚡ Fun fact **Im bad hehe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
