@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Vo</h1>
 <h3 align="center">A passionate fullstack developer from Viet Nam</h3>
 
-- 🔭 I’m currently working on [A3Solution](https://a3solutions.vn/)
-
 - 🌱 I’m currently learning **NextJS, ASP.NET Core**
 
 - 👨‍💻 All of my projects are available at [johnvo](https://johnvo402.github.io/johnvo402/portfolio.html)
