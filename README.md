@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm John Vo</h1>
 <h3 align="center">A passionate fullstack developer from Viet Nam</h3>
 
-- 🌱 I’m currently learning **NextJS, ASP.NET Core**
+- 🌱 I’m currently learning **NextJS, Python**
 
 - 👨‍💻 All of my projects are available at [johnvo](https://johnvo402.github.io/johnvo402/portfolio.html)
 
-- 💬 Ask me about **ReactJs, ASP.NET Core**
+- 💬 Ask me about **NextJS, ASP.NET Core**
 
 - 📫 How to reach me **thanhthu040202@gmail.com**
 
